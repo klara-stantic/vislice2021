@@ -7,6 +7,7 @@ Vaje iz UVP za leto 20/21
 * Klara Stantič
 * Matjaž Zaveršnik
 * Tretja Oseba
+* Nekdo Drugi
 
 ## Kratek opis
 
